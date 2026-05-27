@@ -1,4 +1,4 @@
-# telegram-bot
+# Telegram-bot
 Telegram-bot build for learning and sharing. Main purpose of this project is to maintain chat between user and bot.
 
 ## Tools
