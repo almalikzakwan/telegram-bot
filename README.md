@@ -13,6 +13,11 @@ pip install -r requirements.txt # to install project requirements.
 python3 main.py
 ```
 
+Create .env file and put your token as example
+```txt
+token = "bot#token"
+```
+
 ## Info
 Just enjoy your apps! ( ͜•人 ͜•） 🌹.
 
