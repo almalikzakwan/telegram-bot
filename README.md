@@ -19,7 +19,7 @@ token = "bot#token"
 ```
 
 ## Info
-Just enjoy your apps! ( ͜•人 ͜•） 🌹.
+Just enjoy your apps! ( ͜•人 ͜•）🌹.
 
 ## License 
 This project using MIT Project.
